@@ -1,0 +1,3 @@
+This is my first file to be added in git repo.
+
+This file is modified after staging.
