@@ -1,1 +1,3 @@
-Adding chnages from master branch.
+Adding changes from master branch.
+
+File added in feature branch.
