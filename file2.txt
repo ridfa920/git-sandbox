@@ -1,1 +1,2 @@
 This is file 2 added from cloned repository.
+Adding some changes.
