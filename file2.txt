@@ -2,3 +2,5 @@ This is file 2 added from cloned repository.
 Adding some changes.
 File modified in a branch
 Modified again.
+
+File modified in feature branch of cloned fork repo.
